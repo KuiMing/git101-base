@@ -32,7 +32,7 @@
 
 ## Advanced `rebase`
 ```bash
-git rebase --onto <newbase>
+git rebase --onto <new-base> <targe-base> <targe-head>
 ```
 
 ## Rollback
