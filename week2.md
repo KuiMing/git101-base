@@ -8,11 +8,11 @@
 - `git log`
 
 ## 分散式版本控制 -- Branch workflow
-- Mutiple feature development, mutiple branch.
-- Never disturb the main codebase.
+- Multiple feature development, multiple branch.
+  - a feature with a branch.
+- Never disturb the main codebase (`master`).
 
 ### How it work
-
 ![branch](https://docs.google.com/drawings/d/1GIYdJVVUDJah87L_eXc76YytV395qY8Y94RaSb5SNa0/pub?w=670&h=619)
 
 ## What is `pull`?
