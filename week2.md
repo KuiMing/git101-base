@@ -32,8 +32,12 @@
 
 ## Advanced `rebase`
 ```bash
-git rebase --onto <newbase>
+git rebase --onto <new-base> <targe-base> <targe-head>
 ```
+
+### References
+- [Git-rebase 小筆記](https://blog.yorkxin.org/posts/2011/07/29/git-rebase/)
+- [Rebase without tears](https://matthew-brett.github.io/pydagogue/rebase_without_tears.html)
 
 ## Rollback
 - `revert`
